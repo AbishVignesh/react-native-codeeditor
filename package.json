@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@actualwave/deferred": "0.0.1",
-    "@actualwave/event-dispatcher": "^1.2.2",
-    "@actualwave/messageport-dispatcher": "^1.1.3"
+    "@actualwave/event-dispatcher":"git+https://github.com/burdiuz/js-messageport-event-dispatcher.git",
+    "@actualwave/messageport-dispatcher":"git+https://github.com/burdiuz/js-messageport-event-dispatcher.git"
   },
   "peerDependencies": {
     "react": ">15.0.0",
